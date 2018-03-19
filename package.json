@@ -1,0 +1,17 @@
+{
+  "name": "snake",
+  "version": "1.0.0",
+  "description": "Snake game made with Js",
+  "main": "sketch",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "Snake"
+  ],
+  "author": "Daniel Cataño Restrepo",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^22.4.2"
+  }
+}
